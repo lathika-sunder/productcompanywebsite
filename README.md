@@ -414,8 +414,12 @@ Publish the website in the given URL.
 =======
 ### Home Page:
 
+<<<<<<< HEAD
 ![output](./images?productwebsite.png)
 >>>>>>> 6c3e6b8e5abddf9b876716510b84fb0a561a89e4
+=======
+![output](./productwebsite.png)
+>>>>>>> 917dacc3a223694b9c34aca79fb61d2d3d759c83
 
 ## Result:
 
