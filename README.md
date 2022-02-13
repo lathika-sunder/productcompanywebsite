@@ -40,7 +40,7 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images?productwebsite.png)
+![output](./images/productwebsite.png)
 
 ## Result:
 
