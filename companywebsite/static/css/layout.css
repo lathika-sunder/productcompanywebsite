@@ -3,8 +3,8 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 body {
-  background-color: whitesmoke;
-  color: #17421d;
+  background-color: rgb(0, 0, 0);
+  color: #ff9900;
 }
 .container {
   width: 1080px;
