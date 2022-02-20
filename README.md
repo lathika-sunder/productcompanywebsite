@@ -36,7 +36,8 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 
-'''<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <title>BEAUTELLO</title>
@@ -405,7 +406,8 @@ Publish the website in the given URL.
       </div>
     </div>
   </body>
-</html>'''
+</html>
+```
 
 ## OUTPUT:
 ![output](./productwebsite.png)
